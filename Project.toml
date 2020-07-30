@@ -1,0 +1,13 @@
+name = "FEAST"
+uuid = "481188a9-df89-4ae1-b848-b639f9219430"
+authors = ["Julien Brenneck"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
